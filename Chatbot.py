@@ -84,4 +84,4 @@ with tab2:
     st.header("입학 안내")
 
 with tab3:
-    st.header("챗봇에게 무엇이든 물어보세요.")
+    st.header("챗봇에게 무엇이든 물어보세요.") 
